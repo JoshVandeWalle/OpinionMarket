@@ -1,2 +1,2 @@
-https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md - Introduction
+[Introduction] (https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md)
 # Introduction
