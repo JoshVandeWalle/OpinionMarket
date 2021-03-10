@@ -17,4 +17,4 @@
 ### How Does OpinionMarket Solve the Problem?  
 ### Who Made OpinionMarket?  
 ## Next 
-[Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md "Requirements")
+[Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md#requirements "Requirements")
