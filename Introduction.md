@@ -1,6 +1,7 @@
 # Introduction  
 <details>
   <summary>Links</summary>
+  
   ## Portfolio Links
   - [Introduction](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md "Introduction")  
   - [Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md "Requirements")  
