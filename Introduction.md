@@ -31,6 +31,6 @@
 My name is Josh Van de Walle. I am a software engineer with a passion for solving problems in the most efficent way possible. 
 - See my [LinkedIn profile](https://www.linkedin.com/in/joshv42/ "LinkedIn")  
 - Download my [resume](https://drive.google.com/file/d/14kEgO7PI51CU9ZVqGy6FagDcKbD2Rhc_/view?usp=sharing "Resume")
-- <a href = "https://www.linkedin.com/in/joshv42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACoN_C0BhjCG23_-fkW1CunpmMLcrVonMiQ,1607022350908)/" target = "_blank" rel = "noopener noreferrer">Test</a>
+- <a href = "https://drive.google.com/file/d/14kEgO7PI51CU9ZVqGy6FagDcKbD2Rhc_/view?usp=sharing" target = "_blank" rel = "noopener noreferrer">Test</a>
 ## Next 
 [Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md#requirements "Requirements")
