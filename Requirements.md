@@ -34,6 +34,7 @@
 -	Downvoting comments  
 ### High-Level Non-Functional Requirements
 - Gracefully handle offline databases
-- Page level security
+- Page level security  
+
 See the complete project requirements - [here](- [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")   "Project Requirements")  
 
