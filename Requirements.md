@@ -14,6 +14,7 @@
   - [OpinionMarket](http://clientapp6-env.eba-sifj8dsx.us-west-1.elasticbeanstalk.com/ "OpinionMarket")  
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>  
+
 ### High-Level Functional Requirements
 -	A set of enterprise backend APIs  
 -	A client application  
