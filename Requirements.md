@@ -36,5 +36,5 @@
 - Gracefully handle offline databases
 - Page level security  
 
-See the complete project requirements (- [Here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")   "Project Requirements")  
+See the complete project requirements [here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md "Project Requirements") 
 
