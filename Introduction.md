@@ -15,18 +15,11 @@
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>
 
-### What is OpinionMarket  
-- A Social News/Community Discussion web application  
-### What Problem Does OpinionMarket Solve?  
-- People need a place to discuss the topic that matter to them
-- There are people living in different parts of the world who share the same interests
-- Existing platforms lack a strong sense of community and offer a cluttered UI
-### How Does OpinionMarket Solve the Problem?  
-- Opinionmarket provides an easily accessible web-based platform
-- Discussion communities are organized around topics  
-- Users can start a community for any topic
-- Community moderation keeps communities on topic
-- Clean & intuitive UI removes obstacles to use
+### OpinionMarket  
+The moniker OpinionMarket captures the concept of a marketplace of ideas making it the perfect name for an application all about sharing information and thoughts. The application is a web platform for social news and community-driven discussion that will facilitate discourse between individuals based on common interests. OpinionMarket will allow users to join communities of their choice, post content in those communities, comment on content posted by others, upvote or downvote any post or comment, and send direct messages. These features will support the creation of a vast ecosystem of meaningful discussions.  
+The platform is designed to be easy for anyone to use and helpful for everyone. Whatever a user is interested in, be it a hobby, professional skill, or theoretical physics, they can find or start an online community dedicated to it. Community rules establish user-enforced behavioral regulations that keep communities focused on their topic. Customization features make communities unique, give them character, and allow them to stand out. The wealth of features they provide make OpinionMarket communities an excellent place to look for help, show off accomplishments, or find discussion of just about anything. The application presents an intuitive and friendly user interface that makes it easy to dive-in and start browsing content-rich communities.
+ 
+
 ### Who Made OpinionMarket? ###  
 My name is Josh Van de Walle. I am a software engineer with a passion for solving problems in the most efficent way possible. 
 - See my [LinkedIn profile](https://www.linkedin.com/in/joshv42/ "LinkedIn")  
