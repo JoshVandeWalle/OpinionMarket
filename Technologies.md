@@ -26,7 +26,7 @@
 - [Material-UI 4.11.0](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
 
 ### Cloud
-- [Docker](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#docker, "Docker")
+- [Docker](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#docker "Docker")
 - AWS EC2
 - AWS Elastic Beanstalk  
 
