@@ -25,7 +25,7 @@ OpinionMarket is designed using a microservice architecture based on REST APIs. 
 
 OpinionMarket solves these common microservices problems. Service orchestration and data consistency are handled using sagas and compensation transactions. The API gateway orchestrates sagas and, if necessary, performs compensation transactions. All API calls depend on service discovery for routing. This is handled by the Discovery Service which is built using the Spring Cloud Eureka tool. The Gateway's endpoints are secured using OAuth2 provided by Github while the other microservices use IP address whitelisting to block requests from origins other than the gateway.  
 
-See the complete Design Specification [here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/DesignSpecification.docx "Design Specification") 
+See the complete Design Specification [here.](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/DesignSpecification.docx "Design Specification") 
 
 
 ### Who Made OpinionMarket? ###  
