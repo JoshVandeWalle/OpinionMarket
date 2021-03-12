@@ -21,9 +21,9 @@
 - Github OAuth2
 
 ### Client-Side  
-- React 16.13.1
-- Redux 4.0.5
-- Material-UI 4.11.0
+- [React 16.13.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
+- [Redux 4.0.5](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
+- [Material-UI 4.11.0](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
 
 ### Cloud
 - Docker
