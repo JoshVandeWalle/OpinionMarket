@@ -42,6 +42,9 @@ React was selected for use in the project because of its status as the most popu
 ### Docker
 Docker containers provide a consistent and isolated environment for applications to run in. As a result, productivity increases because developer time can be directed towards development instead of debugging complex environment issues. Using Docker with microservice architecture is a natural decision for several reasons, including increased application scalability and flexibility. Docker containers clearly define the code boundaries between services, containers can easily be replaced when an update is needed without affecting other containers, and containers can be easily scaled in the cloud. 
 
+### Amazon Web Services (AWS)
+AWS is the cloud solution of choice for microservice architecture according to the State of Microservices 2020 report. AWS’s Elastic Cloud Compute (EC2) and Elastic Beanstalk services make deploying Docker containers as painless as possible. OpinionMarket’s backend microservices will be deployed in EC2 containers, while the client application will be deployed in Elastic Beanstalk. Because of its compatibility with Docker and with microservice architecture, AWS was a natural choice for the project’s cloud solution.
+
 ## Next 
 [Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
 
