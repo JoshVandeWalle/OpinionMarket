@@ -27,8 +27,8 @@
 
 ### Cloud
 - [Docker](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#docker "Docker")
-- AWS EC2
-- AWS Elastic Beanstalk  
+- [AWS EC2](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#amazon-web-services-aws "AWS")
+- [AWS Elastic Beanstalk](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#amazon-web-services-aws "AWS")
 
 ### Spring Boot ![Spring Boot](/images/tiny/spring_boot.png) 
 The decision to use Spring Boot was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be containerized, deployed to clouds, and integrated with MongoDB. Spring Boot also offers the Netflix Eureka service discovery solution that was used to handle routing, the Maven package management tool that was used to automate testing and deployment, and the innovative annotation-driven library Project Lombok that significantly reduces the amount of boilerplate code in the project.  
