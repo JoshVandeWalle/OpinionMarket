@@ -33,7 +33,7 @@
 ### Spring Boot ![Spring Boot](/images/tiny/spring_boot.png) 
 The decision to use Spring Boot was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be containerized, deployed to clouds, and integrated with MongoDB. Spring Boot also offers the Netflix Eureka service discovery solution that was used to handle routing, the Maven package management tool that was used to automate testing and deployment, and the innovative annotation-driven library Project Lombok that significantly reduces the amount of boilerplate code in the project.  
 
-### MongoDB
+### MongoDB ![Docker](/images/tiny/mongo.png) 
 MongoDB was chosen because of its increasing popularity and innovative approach to data persistence. The JSON-like format in which Mongo documents are stored clarifies the structure of an object and eliminates the need for the complex joins often used with relational databases. Mongo can store objects within other objects using embedding, which represents a code object more accurately than relational databases can. In keeping with the theme of high scalability, MongoDB is designed to be easy to scale-out. Mongo does not use a schema. As a result, documents can take whatever form most precisely represents the relevant data, making the application more flexible. Because both microservice architecture and MongoDB increase an application’s scalability and flexibility, it makes sense to use them together.  
 
 ### React (with Redux and Material-UI)  
