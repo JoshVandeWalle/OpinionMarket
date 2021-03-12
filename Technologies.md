@@ -28,4 +28,8 @@
 ### Cloud
 - Docker
 - AWS EC2
-- AWS Elastic Beanstalk
+- AWS Elastic Beanstalk  
+
+## Next 
+[Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
+
