@@ -30,6 +30,9 @@
 - AWS EC2
 - AWS Elastic Beanstalk  
 
+### Spring Boot
+The decision to use Spring Boot was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be containerized, deployed to clouds, and integrated with MongoDB. 
+
 ## Next 
 [Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
 
