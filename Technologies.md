@@ -39,7 +39,7 @@ MongoDB was chosen because of its increasing popularity and innovative approach 
 ### React (with Redux and Material-UI)  
 React was selected for use in the project because of its status as the most popular frontend framework. React provides several advantages including the ability to reuse HTML code across the application, a virtual document object model (DOM) that eliminates inefficiencies associated with the actual DOM, and the ability to use Redux for storing data that will be needed across the application. Material-UI was chosen as the application’s frontend CSS library because of the responsive components it provides, its extensive collection of beautiful UI elements, and its comprehensive official documentation.  
 
-### Docker
+### Docker ![Docker](/images/tiny/docker.png) 
 Docker containers provide a consistent and isolated environment for applications to run in. As a result, productivity increases because developer time can be directed towards development instead of debugging complex environment issues. Using Docker with microservice architecture is a natural decision for several reasons, including increased application scalability and flexibility. Docker containers clearly define the code boundaries between services, containers can easily be replaced when an update is needed without affecting other containers, and containers can be easily scaled in the cloud. 
 
 ### Amazon Web Services (AWS)
