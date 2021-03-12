@@ -36,6 +36,9 @@ The decision to use Spring Boot was made after evaluating alternatives including
 ### MongoDB
 MongoDB was chosen because of its increasing popularity and innovative approach to data persistence. The JSON-like format in which Mongo documents are stored clarifies the structure of an object and eliminates the need for the complex joins often used with relational databases. Mongo can store objects within other objects using embedding, which represents a code object more accurately than relational databases can. In keeping with the theme of high scalability, MongoDB is designed to be easy to scale-out. Mongo does not use a schema. As a result, documents can take whatever form most precisely represents the relevant data, making the application more flexible. Because both microservice architecture and MongoDB increase an application’s scalability and flexibility, it makes sense to use them together.  
 
+### React (with Redux and Material-UI)  
+React was selected for use in the project because of its status as the most popular frontend framework. React provides several advantages including the ability to reuse HTML code across the application, a virtual document object model (DOM) that eliminates inefficiencies associated with the actual DOM, and the ability to use Redux for storing data that will be needed across the application. Material-UI was chosen as the application’s frontend CSS library because of the responsive components it provides, its extensive collection of beautiful UI elements, and its comprehensive official documentation.
+
 ## Next 
 [Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
 
