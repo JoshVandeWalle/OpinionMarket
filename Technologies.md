@@ -17,7 +17,7 @@
 
 ###  Server-Side  
 - [Spring Boot 2.4.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot- "Spring Boot")
-- MongoDB 4.2.10
+- [MongoDB 4.2.10](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#mongodb "MongoDB")
 - Github OAuth2
 
 ### Client-Side  
