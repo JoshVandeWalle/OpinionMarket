@@ -24,4 +24,15 @@ Each data microservice is designed with a **layered architecture**. The services
 The client application is built using **React** along with serveral common dependencies including **Redux** for state management, **Material-UI** for styling, **Axios** for HTTP requests, and **React-Router** for routing. **React Hooks** were used throughout the application, including both buit-in hooks like **useState** and **useEffect** as well as **custom hooks**. A custom hook was used to design reuseable form logic in accordance with **Don't Repeat Yourself (DRY)** best practices.
 
 ### Cloud & Devops
-Each microservice was containerized usng **Docker** and deployed in an **AWS EC2** instance. The client application was containerized using Docker and deployed in **AWS Elastic Beanstalk**. All databases use **MongoDB Atlas** a cloud-native **NoSQl** database solution. An automated CI/CD pipleline and automated integration testing were built in to the microservice's **Maven** build cycle. This was done using **Maven profiles**, the **JUnit**, the **Failsafe plugin**, and the **Docker for Maven plugin from Spotify**. The Docker ofr Maven plugin pushes a **Docker image** to **Docker Hub** where it is detected by and deployed by **AWS**. If any integration test or the Docker build fails, then the Maven build also fails.
+Each microservice was containerized usng **Docker** and deployed in an **AWS EC2** instance. The client application was containerized using Docker and deployed in **AWS Elastic Beanstalk**. All databases use **MongoDB Atlas** a cloud-native **NoSQl** database solution. An automated CI/CD pipleline and automated integration testing were built in to the microservice's **Maven** build cycle. This was done using **Maven profiles**, the **JUnit**, the **Failsafe plugin**, and the **Docker for Maven plugin from Spotify**. The Docker ofr Maven plugin pushes a **Docker image** to **Docker Hub** where it is detected by and deployed by AWS. If any integration test or the Docker build fails, then the Maven build also fails.
+
+### Diagrams  
+#### Physical Architecture
+[Phyiscal Architecture]()
+
+#### Logical Architecture
+[Logical Architecture]()
+
+#### UML Class Diagrams
+
+
