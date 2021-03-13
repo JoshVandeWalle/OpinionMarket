@@ -28,7 +28,7 @@ Each microservice was containerized usng **Docker** and deployed in an **AWS EC2
 
 ### Diagrams  
 #### Physical Architecture
-[Phyiscal Architecture]()
+[Phyiscal Architecture](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/images/PhysicalArchitecture.png)
 
 #### Logical Architecture
 [Logical Architecture]()
