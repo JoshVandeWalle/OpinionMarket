@@ -35,4 +35,5 @@ Each microservice was containerized usng **Docker** and deployed in an **AWS EC2
 
 #### UML Class Diagrams
 
-
+## Next 
+[Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")
