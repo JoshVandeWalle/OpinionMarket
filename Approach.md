@@ -28,10 +28,10 @@ Each microservice was containerized usng **Docker** and deployed in an **AWS EC2
 
 ### Diagrams  
 #### Physical Architecture
-[Phyiscal Architecture](/images/PhysicalArchitecture.png)
+![Phyiscal Architecture](/images/PhysicalArchitecture.png)
 
 #### Logical Architecture
-[Logical Architecture]()
+![Logical Architecture]()
 
 #### UML Class Diagrams
 
