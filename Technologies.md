@@ -7,7 +7,7 @@
   - [Introduction](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md "Introduction")  
   - [Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md "Requirements")  
   - [Technologies](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md "Technolgoies")  
-  - [Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")  
+  - [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Technical Approach")  
   - [Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")  
   - [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")  
   ## External Links
@@ -46,5 +46,5 @@ Docker containers provide a consistent and isolated environment for applications
 AWS is the cloud solution of choice for microservice architecture according to the [State of Microservices](https://tsh.io/state-of-microservices/ "State of Microservices Report") report. AWS’s Elastic Cloud Compute (EC2) and Elastic Beanstalk services make deploying Docker containers as painless as possible. OpinionMarket’s backend microservices are deployed in EC2 containers, while the client application is deployed in Elastic Beanstalk. Because of its compatibility with Docker and with microservice architecture, AWS was a natural choice for the project’s cloud solution.
 
 ## Next 
-[Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
+[Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
 
