@@ -17,7 +17,7 @@
 
 ### Rationale
 I selected technologies based on the following criteria:  
-- ** Each major technology must be new to me **
+- **Each major technology must be new to me**
 - Each technology should be industry-relevant
 - All technologies should work well together
 -  
