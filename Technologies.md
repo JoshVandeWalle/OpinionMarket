@@ -15,6 +15,12 @@
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>
 
+### Rationale
+I selected technologies based on the following criteria:  
+- ** Each major technology must be new to me **
+- Each technology should be industry-relevant
+- All technologies should work well together
+-  
 ###  Server-Side  
 - [Spring Boot 2.4.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot- "Spring Boot")
 - [MongoDB 4.2.10](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#mongodb "MongoDB")
