@@ -30,7 +30,7 @@ OpinionMarket was ambitious in its archiectural, technical, and functional scope
 - I had never used Maven before
 - I had never done automated testing before
 
-# Challenges
+### Challenges
 - Maintaining data consistancy with microservices and the Database-per-Service pattern
 - Service orchestration
 - Service Discovery
