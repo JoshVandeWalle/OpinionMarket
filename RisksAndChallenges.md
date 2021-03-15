@@ -40,3 +40,6 @@ OpinionMarket was ambitious in its architectural, technical, and functional scop
 
 ### How the Risks were Mitigated
 I built several proof of concept application to gain familiarity with microservices, Spring Boot, MongoDB, React, Redux, Material-UI, Docker, AWS EC2, AWS Elastic Beanstalk, OAuth2, and Maven. I identified websites that provide useful information on technologies and architecture styles including but not limited to DZone, Microservices.io, Medium, YouTube, and TutorialsPoint. Risks were identified at the oust set of the project to maximize the time taht could be spent on mitigating them. Risk mitigation was done before the design phase of the project to remove uncertainity about the technologies before design work was due.
+
+### How the Challenges were Overcome
+I used many of the same resources that I had previousl used to familiarize myself with the new technologies and architecture patterns to help me overcome implementation challenges. Useful resouces included offical documentation, DZone, Medium, StackOverflow, Github Issues, and more. In every implementation decision I strove to follow industry best practices rather than blindly adopting the most expedient solutions.
