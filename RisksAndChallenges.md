@@ -35,7 +35,8 @@ OpinionMarket was ambitious in its architectural, technical, and functional scop
 - Service orchestration
 - Service Discovery
 - Implementing OAuth2
-- Working with files and persiting them
+- Working with files and persisting them
+- Automating testing and deployment
 
 ### How the Risks were Mitigated
-I built several proof of concept application to gain familiarity with microservices, Spring Boot, MongoDB, React, Redux, Material-UI, Docker, AWS EC2, AWS Elastic Beanstalk, OAuth2, and Maven. I identified websites that provide useful information on technologies and architecture styles including but not limited to DZone, Microservices.io, Medium, YouTube, and TutorialsPoint. Risk mitigation was done during before the design phase of the project to remove 
+I built several proof of concept application to gain familiarity with microservices, Spring Boot, MongoDB, React, Redux, Material-UI, Docker, AWS EC2, AWS Elastic Beanstalk, OAuth2, and Maven. I identified websites that provide useful information on technologies and architecture styles including but not limited to DZone, Microservices.io, Medium, YouTube, and TutorialsPoint. Risks were identified at the oust set of the project to maximize the time taht could be spent on mitigating them. Risk mitigation was done before the design phase of the project to remove uncertainity about the technologies before design work was due.
