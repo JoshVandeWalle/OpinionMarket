@@ -53,7 +53,7 @@ I choose to learn React because of the high demand for it in the industry. I cho
 ### Docker  
 Docker containers provide a consistent and isolated environment for applications to run in. As a result, productivity increases because developer time can be directed towards development instead of debugging complex environment issues. Using Docker with microservice architecture is a natural decision for several reasons, including increased application scalability and flexibility. Docker containers clearly define the code boundaries between services, containers can easily be replaced when an update is needed without affecting other containers, and containers can be easily scaled in the cloud. 
 
-I choose to learn Docker because I had never done any application containerization before. I was also happy to take advantage of the predicatable environment containers provide to focus on application development.
+I choose to learn Docker because I had never done any application containerization before and wanted to understand the concept. I was also happy to take advantage of the predicatable environment containers provide to focus on application development.
 
 ### Amazon Web Services (AWS)
 AWS is the cloud solution of choice for microservice architecture according to the [State of Microservices](https://tsh.io/state-of-microservices/ "State of Microservices Report") report. AWS’s Elastic Cloud Compute (EC2) and Elastic Beanstalk services make deploying Docker containers as painless as possible. OpinionMarket’s backend microservices are deployed in EC2 containers, while the client application is deployed in Elastic Beanstalk. Because of its compatibility with Docker and with microservice architecture, AWS was a natural choice for the project’s cloud solution.
