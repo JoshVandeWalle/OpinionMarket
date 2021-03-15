@@ -43,3 +43,6 @@ I built several proof of concept application to gain familiarity with microservi
 
 ### How the Challenges were Overcome
 I used many of the same resources that I had previousl used to familiarize myself with the new technologies and architecture patterns to help me overcome implementation challenges. Useful resouces included offical documentation, DZone, Medium, StackOverflow, Github Issues, and more. In every implementation decision I strove to follow industry best practices rather than blindly adopting the most expedient solutions.
+
+## Next 
+[Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")
