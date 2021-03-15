@@ -58,7 +58,7 @@ I choose to learn Docker because I had never done any application containerizati
 ### Amazon Web Services (AWS)
 AWS is the cloud solution of choice for microservice architecture according to the [State of Microservices](https://tsh.io/state-of-microservices/ "State of Microservices Report") report. AWS’s Elastic Cloud Compute (EC2) and Elastic Beanstalk services make deploying Docker containers as painless as possible. OpinionMarket’s backend microservices are deployed in EC2 containers, while the client application is deployed in Elastic Beanstalk. Because of its compatibility with Docker and with microservice architecture, AWS was a natural choice for the project’s cloud solution.
 
-I choose to learn AWS because it is the most complete, mature, and innovative cloud provider in the industry. Having gained some inital familiarity with AWS, I hope to add more services to m skill set in the near future including the Lambda servless solution.
+I choose to learn AWS because it is the most complete, mature, and innovative cloud provider in the industry. Having gained some inital familiarity with AWS, I hope to add more services to my skill set in the near future including the Lambda servless solution.
 
 ## Next 
 [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
