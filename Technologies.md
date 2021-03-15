@@ -20,7 +20,6 @@ I selected technologies based on the following criteria:
 - **Each major technology must be new to me**
 - Each technology should be industry-relevant
 - All technologies should work well together
--  
 ###  Server-Side  
 - [Spring Boot 2.4.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot- "Spring Boot")
 - [MongoDB 4.2.10](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#mongodb "MongoDB")
@@ -39,8 +38,12 @@ I selected technologies based on the following criteria:
 ### Spring Boot
 The decision to use Spring Boot was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be containerized, deployed to clouds, and integrated with MongoDB. Spring Boot also offers the Netflix Eureka service discovery solution that was used to handle routing, the Maven package management tool that was used to automate testing and deployment, and the innovative annotation-driven library Project Lombok that significantly reduces the amount of boilerplate code in the project.  
 
+I choose to learn Spring Boot because of the ease with which it can be used to create Spring applications with opinionated configurations. Spring Boot makes writing code a breeze with its annotation-driven features, database repositories, and libraries that reduce boilerplate code.
+
 ### MongoDB
 MongoDB was chosen because of its increasing popularity and innovative approach to data persistence. The JSON-like format in which Mongo documents are stored clarifies the structure of an object and eliminates the need for the complex joins often used with relational databases. Mongo can store objects within other objects using embedding, which represents a code object more accurately than relational databases can. In keeping with the theme of high scalability, MongoDB is designed to be easy to scale-out. Mongo does not use a schema. As a result, documents can take whatever form most precisely represents the relevant data, making the application more flexible. Because both microservice architecture and MongoDB increase an application’s scalability and flexibility, it makes sense to use them together.  
+
+I choose to learn MongoDB because I had never worked with a NoSQL database before. I had worked with many relational databases such as PostgreSQL, MySQL, MariaDB, and Microsoft SQL Server and wanted to ensure my database engineering skills were well-rounded.
 
 ### React (with Redux and Material-UI)  
 React was selected for use in the project because of its status as the most popular frontend framework. React provides several advantages including the ability to reuse HTML code across the application, a virtual document object model (DOM) that eliminates inefficiencies associated with the actual DOM, and the ability to use Redux for storing data that will be needed across the application. Material-UI was chosen as the application’s frontend CSS library because of the responsive components it provides, its extensive collection of beautiful UI elements, and its comprehensive official documentation.  
