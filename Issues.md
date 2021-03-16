@@ -14,3 +14,10 @@
   - [OpinionMarket](http://clientapp6-env.eba-sifj8dsx.us-west-1.elasticbeanstalk.com/ "OpinionMarket")  
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>
+
+### Outstanding Issues
+- Messaging is not instant
+- Data consistency not guranteed if a compenstation transaction fails
+- Occasional issues with requests being aborted because of asynchronous requests and rendering
+- Images appear stched on Chrome
+- Responsiveness could be improved
