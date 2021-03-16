@@ -19,5 +19,5 @@
 - Messaging is not instant
 - Data consistency not guranteed if a compenstation transaction fails
 - Occasional issues with requests being aborted because of asynchronous requests and rendering
-- Images appear stched on Chrome
+- Images appear stretched on Chrome
 - Responsiveness could be improved
