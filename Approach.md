@@ -26,8 +26,6 @@ The client application is built using **React** along with serveral common depen
 ### Cloud & Devops
 Each microservice was containerized usng **Docker** and deployed in an **AWS EC2** instance. The client application was containerized using Docker and deployed in **AWS Elastic Beanstalk**. All databases use **MongoDB Atlas** a cloud-native **NoSQL** database solution. An automated CI/CD pipleline and automated integration testing were built in to the microservice's **Maven** build cycle. This was done using **Maven profiles**, the **JUnit**, the **Failsafe plugin**, the **Docker for Maven plugin from Spotify** and **Watchtower**. The Docker ofr Maven plugin pushes a **Docker image** to **Docker Hub** where it is detected by and deployed by Watchtower. An advatage of this solution is that it is independent of the underlying cloud service and relies solely on Docker. If any integration test or the Docker build fails, then the Maven build also fails.
 
-See the complete Design Specification [here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/DesignSpecification.docx "Design Specification") for full details.
-
 ### Diagrams  
 #### Physical Architecture
 ![Phyiscal Architecture](/images/PhysicalArchitecture.png)
@@ -36,6 +34,8 @@ See the complete Design Specification [here](https://github.com/JoshVandeWalle/O
 ![Logical Architecture](/images/LogicalArchitecture.png)
 
 #### UML Class Diagrams
+
+See the complete Design Specification [here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/DesignSpecification.docx "Design Specification") for full details.
 
 ## Next 
 [Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")
