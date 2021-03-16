@@ -15,7 +15,7 @@
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>
 
-OpinionMarket was ambitious in its architectural, technical, and functional scope. The lists below shows the project risks and challenges that were overcome.
+OpinionMarket was ambitious in its architectural, technical, and functional scope. The lists below outline the risks and challenges that were overcome.
 
 ### Risks
 - I had never used a microservice architecture before
