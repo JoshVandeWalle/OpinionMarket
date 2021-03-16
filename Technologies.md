@@ -48,7 +48,7 @@ I choose to learn MongoDB because I had never worked with a NoSQL database befor
 ### React (with Redux and Material-UI)  
 React was selected for use in the project because of its status as the most popular frontend framework. React provides several advantages including the ability to reuse HTML code across the application, a virtual document object model (DOM) that eliminates inefficiencies associated with the actual DOM, and the ability to use Redux for storing data that will be needed across the application. Material-UI was chosen as the application’s frontend CSS library because of the responsive components it provides, its extensive collection of beautiful UI elements, and its comprehensive official documentation.  
 
-I choose to learn React because of the high demand for it in the industry. I choose to learn Redux because I wanted to be able to build React applications that effectively manage state. I choose to learn Material-UI because of the ease with which it can be used to add beautiful UI elements to a components.
+I choose to learn React because of the high demand for it in the industry. I choose to learn Redux because I wanted to be able to build React applications that effectively manage state. I choose to learn Material-UI because of the ease with which it can be used to add beautiful UI elements to components.
 
 ### Docker  
 Docker containers provide a consistent and isolated environment for applications to run in. As a result, productivity increases because developer time can be directed towards development instead of debugging complex environment issues. Using Docker with microservice architecture is a natural decision for several reasons, including increased application scalability and flexibility. Docker containers clearly define the code boundaries between services, containers can easily be replaced when an update is needed without affecting other containers, and containers can be easily scaled in the cloud. 
@@ -58,7 +58,7 @@ I choose to learn Docker because I had never done any application containerizati
 ### Amazon Web Services (AWS)
 AWS is the cloud solution of choice for microservice architecture according to the [State of Microservices](https://tsh.io/state-of-microservices/ "State of Microservices Report") report. AWS’s Elastic Cloud Compute (EC2) and Elastic Beanstalk services make deploying Docker containers as painless as possible. OpinionMarket’s backend microservices are deployed in EC2 containers, while the client application is deployed in Elastic Beanstalk. Because of its compatibility with Docker and with microservice architecture, AWS was a natural choice for the project’s cloud solution.
 
-I choose to learn AWS because it is the most complete, mature, and innovative cloud provider in the industry. Having gained some inital familiarity with AWS, I hope to add more services to my skill set in the near future including the Lambda servless solution.
+I choose to learn AWS because it is the most complete, mature, and innovative cloud provider in the industry. Having gained familiarity with AWS, I hope to add more services to my skill set in the near future including the Lambda servless solution.
 
 ## Next 
 [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
