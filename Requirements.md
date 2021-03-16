@@ -16,7 +16,6 @@
 </details>  
 
 ### High-Level Functional Requirements
--	A set of enterprise backend APIs  
 -	A client application  
 -	User accounts and authentication  
 -	Public user profiles  
