@@ -12,7 +12,7 @@
   - [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")  
   ## External Links
   - [OpinionMarket](http://clientapp6-env.eba-sifj8dsx.us-west-1.elasticbeanstalk.com/ "OpinionMarket")  
-  - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger"){:target="_blank" rel="noopener"}  
+  - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0){:target="_blank" rel="noopener"}  
 </details>
 
 ### Business Problem and Solution  
