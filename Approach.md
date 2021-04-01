@@ -34,6 +34,8 @@ Each microservice was containerized usng **Docker** and deployed in an **AWS EC2
 ![Logical Architecture](/images/LogicalArchitecture.png)
 
 #### UML Class Diagrams
+The following UML class diagram depicts the classes in the user microservice together with their relationships and the multiplicities of those relationships.
+![User Service](/images/userUML.png)
 
 See the complete Design Specification [here](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/DesignSpecification.docx "Design Specification") for full details.
 
