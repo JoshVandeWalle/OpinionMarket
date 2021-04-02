@@ -15,8 +15,7 @@
   - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 </details>  
 
-### High-Level Functional Requirements
--	A client application  
+### High-Level Functional Requirements 
 -	User accounts and authentication  
 -	Public user profiles  
 -	Discussion communities  
