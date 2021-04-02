@@ -26,7 +26,7 @@ The client application is built using **React** along with serveral common depen
 ### Cloud & Devops
 Each microservice was containerized usng **Docker** and deployed in an **AWS EC2** instance. The client application was containerized using Docker and deployed in **AWS Elastic Beanstalk**. OpinionMarket, therefore, leverages a cloud stack consisting of both **Infrastructure-as-a-Service (IaaS)** and **Platform-as-a-Service (PaaS)** components. All databases use **MongoDB Atlas** a cloud-native **NoSQL** database solution. An automated **CI/CD pipleline** and automated unit and integration testing were built in to the microservice's **Maven** build cycle. This was done using **Maven profiles**, **JUnit**, the **Surefire plugin**, the **Failsafe plugin**, the **Dockerfile for Maven plugin from Spotify** and **Watchtower**. The Dockerfile for Maven plugin pushes a **Docker image** to **Docker Hub** where it is detected by and deployed by Watchtower. An advatage of this solution is that it is independent of the underlying cloud service and relies solely on Docker. If any integration test or the Docker build fails, then the Maven build also fails.
 
-### Design Diagrams  
+### Diagrams  
 #### Physical Architecture
 ![Phyiscal Architecture](/images/PhysicalArchitecture.png)
 
