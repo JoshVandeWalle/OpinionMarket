@@ -23,7 +23,7 @@ I selected technologies based on the following criteria:
 ###  Server-Side  
 - [Spring Boot 2.4.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
 - [MongoDB 4.2.10](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#mongodb "MongoDB")
-- [Github OAuth2](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
+- [Maven](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
 
 ### Client-Side  
 - [React 16.13.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
@@ -36,7 +36,7 @@ I selected technologies based on the following criteria:
 - [AWS Elastic Beanstalk](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#amazon-web-services-aws "AWS")
 
 ### Spring Boot
-The decision to use **Spring Boot** was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be **containerized**, deployed to clouds, integrated with **MongoDB**, and its compatibility with **microservice architecture**. Spring Boot offers the **Netflix Eureka service discovery** solution that was used to handle routing requests to microservices. It is easy to configure **OAuth2** authorization from providers such as Github for Spring Boot applications. This was useful for securing the **API**. In addition, Spring Boot easily integrates with the **Maven** package management tool that provides the plugins used to support **DevOps** capabilities such as **automated unit and integration testing** and **CI/CD pipelines**. The innovative annotation-driven library **Project Lombok**, available for Spring Boot, was leveraged to significantly reduce the amount of boilerplate code in the project.  
+The decision to use **Spring Boot** was made after evaluating alternatives including .NET Core and Express. Proof of concept applications were built using each framework under consideration. Based on these proofs of concept, Spring Boot was determined to be the most suitable framework for the project due to the ease with which it can be **containerized**, deployed to clouds, integrated with **MongoDB**, and its compatibility with **microservice architecture**. Spring Boot offers the **Netflix Eureka service discovery** solution that was used to handle routing requests to microservices. In addition, Spring Boot easily integrates with the **Maven** package management tool that provides the plugins used to support **DevOps** capabilities such as **automated unit and integration testing** and **CI/CD pipelines**. The innovative annotation-driven library **Project Lombok**, available for Spring Boot, was leveraged to significantly reduce the amount of boilerplate code in the project.  
 
 I choose to learn Spring Boot because of the ease with which it can be used to create Spring applications with opinionated configurations. Spring Boot makes writing code a breeze with its **annotation-driven features**, **database repositories**, and libraries that reduce boilerplate code.
 
