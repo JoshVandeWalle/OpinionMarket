@@ -26,7 +26,6 @@ OpinionMarket was ambitious in its architectural, technical, and functional scop
 - I had never used Material-UI before
 - I had never used Docker before
 - I had never used AWS before
-- I had never used OAuth2 before
 - I had never used Maven before
 - I had never done automated testing before
 
@@ -34,7 +33,6 @@ OpinionMarket was ambitious in its architectural, technical, and functional scop
 - Maintaining data consistancy with microservices and the Database-per-Service pattern
 - Service orchestration
 - Service Discovery
-- Implementing OAuth2
 - Working with files and persisting them
 - Automating testing and deployment
 
