@@ -30,7 +30,7 @@ OpinionMarket was ambitious in its architectural, technical, and functional scop
 - I had never done automated testing before
 
 ### Challenges
-- Maintaining data consistancy with microservices and the Database-per-Service pattern
+- Maintaining data consistency with microservices and the Database-per-Service pattern
 - Service orchestration
 - Service Discovery
 - Working with files and persisting them
