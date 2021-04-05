@@ -28,7 +28,7 @@ See the complete Design Specification [here.](https://github.com/JoshVandeWalle/
 
 
 ### Who Made OpinionMarket? ###  
-My name is Josh Van de Walle. I am a software engineer with a passion for solving problems in the most efficent way possible. 
+My name is Josh Van de Walle. I am a software engineer with a passion for solving problems in the most efficient way possible. 
 - See my [LinkedIn profile](https://www.linkedin.com/in/joshv42/ "LinkedIn")  
 - Download my [resume](https://drive.google.com/file/d/14kEgO7PI51CU9ZVqGy6FagDcKbD2Rhc_/view?usp=sharing "Resume")
 ## Next 
