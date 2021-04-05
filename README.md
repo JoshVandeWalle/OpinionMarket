@@ -1,19 +1,16 @@
 # Introduction  
 
-<details>
-  <summary>Links</summary>
-  
-  ## Portfolio Links
-  - [Introduction](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md "Introduction")  
-  - [Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md "Requirements")  
-  - [Technologies](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md "Technolgoies")  
-  - [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Technical Approach")  
-  - [Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")  
-  - [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")  
-  ## External Links
-  - [OpinionMarket](http://clientapp6-env.eba-sifj8dsx.us-west-1.elasticbeanstalk.com/ "OpinionMarket")  
-  - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
-</details>
+## Portfolio Links
+- [Introduction](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Introduction.md "Introduction")  
+- [Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md "Requirements")  
+- [Technologies](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md "Technolgoies")  
+- [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Technical Approach")  
+- [Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")  
+- [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")  
+## External Links
+- [OpinionMarket](http://clientapp6-env.eba-sifj8dsx.us-west-1.elasticbeanstalk.com/ "OpinionMarket")  
+- [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
+
 
 ### Business Problem and Solution  
 The moniker OpinionMarket captures the concept of a marketplace of ideas making it the perfect name for an application all about sharing information and thoughts. The application is a web platform for social news and community-driven discussion that facilitates discourse between individuals based on common interests. OpinionMarket allows users to join communities of their choice, post content in those communities, comment on content posted by others, upvote or downvote any post or comment, and send direct messages. These features support the creation of a vast ecosystem of meaningful discussions.
