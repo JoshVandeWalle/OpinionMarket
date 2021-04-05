@@ -23,7 +23,7 @@ I selected technologies based on the following criteria:
 ###  Server-Side  
 - [Spring Boot 2.4.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
 - [MongoDB 4.2.10](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#mongodb "MongoDB")
-- [Maven](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
+- [Maven 3.6.3](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#spring-boot "Spring Boot")
 
 ### Client-Side  
 - [React 16.13.1](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md#react-with-redux-and-material-ui "React")
