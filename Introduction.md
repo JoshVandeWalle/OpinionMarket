@@ -9,7 +9,7 @@
 - [Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")  
 ## External Links
 - [Demo](https://www.loom.com/share/3d94522a19c94a43bbb02ec2a3d37ed6 "Demo")
-- [OpinionMarket][OpinionMarket](https://opinionmarketproject.com/ "OpinionMarket")  
+- [OpinionMarket](https://opinionmarketproject.com/ "OpinionMarket")  
 - [Swagger](https://app.swaggerhub.com/apis/JoshV3742/Capstone/1.0.0 "Swagger")  
 
 
